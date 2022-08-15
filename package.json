@@ -1,0 +1,14 @@
+{
+  "name": "miner",
+  "version": "1.0.0",
+  "description": "a miner node application written in Javascript ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "miner"
+  ],
+  "author": "Meisam Taher",
+  "license": "ISC"
+}
